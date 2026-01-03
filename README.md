@@ -18,10 +18,10 @@ A aplicação foi desenvolvida em **Python**, utilizando **Streamlit** para a in
 
 ## 🧠 Tecnologias utilizadas
 
-- **Python**
-- **Streamlit** (interface web)
-- **Pandas** (manipulação de dados)
-- **Scikit-learn** (Machine Learning)
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Streamlit** ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- **Pandas** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- **Scikit-learn** ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
