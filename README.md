@@ -71,7 +71,7 @@ Após isso:
 O navegador será aberto automaticamente
 A aplicação estará pronta para uso
  ```
-##🌐 Aplicação online
+## 🌐 Aplicação online
 
 A aplicação também está disponível online no Streamlit Cloud:
  ```txt
@@ -89,7 +89,7 @@ Saída: Preço estimado (R$)
 Este modelo é simples e didático, ideal para fins de aprendizado.
  ```
 
-##📚 Observações
+## 📚 Observações
  ```txt
 Projeto com fins educacionais
 
